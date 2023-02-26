@@ -1,6 +1,6 @@
 package orangehrm.testcases;
 
-import java.io.IOException;
+import java.io.IOExce
 
 import org.testng.annotations.Test;
 
